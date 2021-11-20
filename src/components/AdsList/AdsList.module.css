@@ -1,0 +1,5 @@
+.list {
+  display: inline-block;
+  flex-direction: column;
+  list-style: none;
+}
